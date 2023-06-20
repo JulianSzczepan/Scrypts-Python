@@ -1,0 +1,12 @@
+print(1,2,3,4)
+print(1,2,3,4,sep='_')
+Francja='FR'
+Niemcy='DE'
+Belgia='BE'
+Czechy='CZ'
+print('FR','DE','BE','CZ')
+print('FR','DE','BE','CZ',sep='_')
+print('FR','DE','\nBE','CZ')
+print('FR','DE','BE','CZ',sep='_'+'\n')
+print('FR','DE','BE','CZ',sep='\t')
+print('\u1847')

@@ -1,0 +1,6 @@
+tekst= input('wpisz słowo ')
+tekst+=input('wpisz slowo ')
+tekst+=input('wpisz slowo ')
+tekst+=input('wpisz slowo ')
+tekst+=input('wpisz slowo ')
+print('tekst: '+tekst) 
